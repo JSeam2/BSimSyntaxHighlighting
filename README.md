@@ -4,4 +4,4 @@ This is intended to be used with the text editor vim. BSim files are used in SUT
 ## Instructions
 1. Add filetype.vim to ~/.vim/ as ~/.vim/filetype.vim
 2. Create a directory syntax in ~/.vim as ~/.vim/syntax
-3. Add bsim.vim to the syntax folder as ~/.vim/bsim.vim
+3. Add bsim.vim to the syntax folder as ~/.vim/syntax/bsim.vim
